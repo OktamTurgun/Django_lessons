@@ -3,8 +3,8 @@
 ## Darslar tartibi
 
 1. lesson_01_django_intro — Django muhitini tayyorlash va birinchi loyiha
-2. lesson_02_models — Model va ma'lumotlar bazasi asoslari (yaratiladi)
-3. lesson_03_admin — Admin panel va superuser (keyin)
+2. lesson_02_models — Model va ma'lumotlar bazasi asoslari
+3. lesson_03_admin — Admin panel va superuser bilan ishlash
 4. lesson_04_views_urls — View va URL marshrutlash (keyin)
 5. lesson_05_templates_static — Template va statik fayllar (keyin)
 6. lesson_06_forms_users — Formalar va foydalanuvchi ma'lumotlari (keyin)

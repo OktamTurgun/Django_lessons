@@ -12,6 +12,7 @@
 8. lesson_08_media — Media fayllar bilan ishlash (keyin)
 9. lesson_09_rest_api — Django REST API (keyin)
 10. lesson_10_testing_deploy — Test va deployment (keyin)
+11.  lesson_11_cicd - GitHub Actions orqali Django loyihasini avtomatlashtirish
 
 Har bir darsda:
 - lesson.md — Nazariy qism
@@ -21,3 +22,6 @@ Har bir darsda:
 ---
 
 Darslar davomida har bir bo'lim to'ldirib boriladi.
+
+## Muallif
+**GitHub:** [OktamTurgun](https://github.com/OktamTurgun)

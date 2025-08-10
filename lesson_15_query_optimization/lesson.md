@@ -162,3 +162,4 @@ books = Book.objects.select_related('publisher').prefetch_related('authors')
 - ORM optimizatsiyasi backend performance’ini sezilarli oshiradi.
 - Har doim real data bilan test qiling — kichik datasetlarda farq bilinmasligi mumkin.
 
+**Keyingi dars:** Annotate va Aggregate

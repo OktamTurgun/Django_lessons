@@ -13,6 +13,11 @@
 9. lesson_09_rest_api — Django REST API (keyin)
 10. lesson_10_testing_deploy — Test va deployment (keyin)
 11.  lesson_11_cicd - GitHub Actions orqali Django loyihasini avtomatlashtirish
+12. lesson_12_throttling - So‘rovlarni cheklash
+13. lesson_13_filtering - Filtering, Searching, Ordering in DRF
+14. lesson_14_Pagination - Katta hajmdagi ma'lumotlarni kichik bo'laklarga ajratib, foydalanuvchiga sahifa-sahifa ko'rsatish usuli.
+15. lesson_15_query_optimization - Query Optimization in Django ORM: `select_related` va `prefetch_related`
+
 
 Har bir darsda:
 - lesson.md — Nazariy qism
